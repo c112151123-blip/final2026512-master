@@ -1,16 +1,8 @@
-# final2026512
+<h3>開啟流程:</h3>
+1.請先到https://github.com/c112151123-blip/mydb4final 下載
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2.執行剛剛下載的app.py<br>
+3.到 Android Studio 環境下編譯並於模擬器執行 Flutter 應用程式 
+<h3>爬取資料:</h3>
+我們已經將需要的資料抓下來了，在mydb4final.db檔裡<br>
+如果有需要爬取新的資料請執行main.py
